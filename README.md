@@ -1,2 +1,2 @@
-# swagger2ts
-将 swagger 自动转换成 typescript 文档
+# swagger-nest
+用 swagger 自动生成 api 文档
